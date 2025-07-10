@@ -1,1 +1,2 @@
 DATA-501 First Tutorial
+This is Advanced Tech for Data Science
